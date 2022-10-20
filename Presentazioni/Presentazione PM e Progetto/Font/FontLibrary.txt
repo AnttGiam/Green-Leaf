@@ -1,0 +1,14 @@
+Titolo Pagina -> Montserrat Bold 65
+Green Leaf -> Montserrat Bold 80
+Claim -> Montserrat Italic 18
+Nome -> Montserrat Bold 21
+Cognome -> Montserrat 18
+Recapiti -> Montserrat Bold 20
+Cosa Accade -> Montserrat (Bold) 24
+Futura -> Modern Love Grunge Bold 36
+Nuvola -> Montserrat 20
+Ma // GreenLeaf -> Montserrat Bold 66
+Adotta -> Modern Love Grunge Bold 36
+Cosa Offriamo // Perchè Noi -> Montserrat Bold 28
+Cosa cerchiamo -> Modern Love Grunge Bold 36
+Grazie -> Montserrat Bold 115
